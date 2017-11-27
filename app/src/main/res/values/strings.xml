@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">1400018251 - Agung</string>
+
+    <string name="nim">NIM</string>
+    <string name="titikDua">:</string>
+    <string name="nimku">1400018251</string>
+    <string name="nama">Nama</string>
+    <string name="namaKu">Agung Fajar Febriyanto</string>
+    <string name="prodi">Program Studi</string>
+    <string name="prodiku">Teknik Informatika</string>
+    <string name="fakultas">Fakultas</string>
+    <string name="fakultasKu">Teknologi Industri</string>
+    <string name="universitas">Universitas</string>
+    <string name="universitasKu">Universitas Ahmad Dahlan</string>
+    <string name="alamat">Alamat</string>
+    <string name="alamatKu">Kemusuk Kidul, Argomulyo, Sedayu, Bantul</string>
+
+    <string name="hintNomorTujuan">Masukkan Nomor Tujuan</string>
+    <string name="hintIsiPesan">Masukkan Isi Pesan</string>
+    <string name="hintURLPencarian">Masukkan URL Pencarian</string>
+    <string name="btnSMS">SMS</string>
+    <string name="btnTelpon">Telpon</string>
+    <string name="btnBrowser">Browser</string>
+
+    <string name="hintJariJari">Masukkan Jari-Jari</string>
+    <string name="btnCariLuas">Luas Permukaan</string>
+    <string name="btnCariVolume">Volume</string>
+
+    <string name="hasilnya">Hasilnya</string>
+</resources>
